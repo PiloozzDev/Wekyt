@@ -7,7 +7,7 @@
 
 <p align="right">
    <a href="https://discord.com/users/725623395294773308" target="_blank" rel="nofollow">
-      <img src="https://lanyard.cnrad.dev/api/725623395294773308?animated=true&hideDiscrim=true&hideStatus=false..." align="right">
+      <img src="https://lanyard-profile-readme.vercel.app/api/725623395294773308?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right">
    </a>
 </p>
 
