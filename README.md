@@ -7,7 +7,7 @@
 
 <p align="right">
    <a href="https://discord.com/users/725623395294773308" target="_blank" rel="nofollow">
-      <img src="https://lanyard.cnrad.dev/api/725623395294773308?idleMessage=Im%20coding%20on%20my%20web%20site...." alt="Discord Presence" align="right">
+      <img src="https://lanyard.cnrad.dev/api/725623395294773308?animated=true&hideDiscrim=true&hideStatus=false..." align="right">
    </a>
 </p>
 
