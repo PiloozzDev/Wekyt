@@ -15,7 +15,7 @@
 
 - 🔍 Im work on a big project.
 - 🚀 How to join me ? [Profil Discord](https://discord.com/users/725623395294773308).
-- 🐧 I am staff on Clappy Host
+- 🐧Old staff on Clappy Host
 - 👤 My [biography](https://dsc.bio/Wekyts) on discord.
 
 
